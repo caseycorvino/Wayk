@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <h1>Wayk!</h1>
+            <img src="http://caseycorvino.co/images/wayk.png" height="600px"/>
             <p><a href="https://itunes.apple.com/us/app/wayk/id1335200487?mt=8">See on the App Store</a></p>
 <p>Join wayk for our initial launch! Alarm clock coming soon!
             </br></br>
@@ -19,5 +20,5 @@
             <li>See friends awake/asleep status</li>
             <li>Push Notifications</li>
 </ul>
-<img src="http://caseycorvino.co/images/wayk.png" height="600px"/>
+
 </html>
