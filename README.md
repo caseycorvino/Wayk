@@ -19,4 +19,5 @@
             <li>See friends awake/asleep status</li>
             <li>Push Notifications</li>
 </ul>
+<img src="http://caseycorvino.co/wayk.html" height="600px">
 </html>
